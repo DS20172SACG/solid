@@ -15,12 +15,7 @@ public class MotoAcuatica  implements VehiculoAcuatico{
     public MotoAcuatica() {
         this.encendido = false;
     }
-    
-    
-    /*
-      En esta ocasión la clase moto acuática no podria sustituir a su padre sin tener problemas
-      ya que depende si este encendida para poder navegar.
-    */
+
     @Override
     public void navegar() {
         if(!estaEncendido())

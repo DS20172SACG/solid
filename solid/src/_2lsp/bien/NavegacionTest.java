@@ -12,9 +12,7 @@ package _2lsp.bien;
 public class NavegacionTest {
     
     
-    /*
-     Si enviamos una moto acuatica y no está encendida, obtendremos una excepción.
-    */
+
     public void navegacion(VehiculoAcuatico... vehiculosAcuaticos) {
 		for (VehiculoAcuatico vehiculo : vehiculosAcuaticos) {
 			vehiculo.navegar();
