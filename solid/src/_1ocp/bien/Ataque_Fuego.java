@@ -3,13 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package _1ocp.mal;
-
+package _1ocp.bien;
 
 /**
  *
- * @author Palacios
+ * @author Administrador
  */
-public enum Ataque {
-    ATAQUE_AGUA,ATAQUE_FUEGO,ATAQUE_AIRE,ATAQUE_PLANTA;
+public class Ataque_Fuego extends IAtaque{
+    
+    public Ataque_Fuego(){
+        daño = 0.50;
+    }
+    
 }
