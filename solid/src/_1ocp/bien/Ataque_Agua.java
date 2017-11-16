@@ -9,7 +9,7 @@ package _1ocp.bien;
  *
  * @author Administrador
  */
-public class Ataque_Agua extends IAtaque{
+public class Ataque_Agua extends Ataque{
     public Ataque_Agua(){
         daño = 0.70;
     }

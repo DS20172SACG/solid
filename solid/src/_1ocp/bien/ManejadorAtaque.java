@@ -16,7 +16,7 @@ public class ManejadorAtaque {
         this.pokemon = pokemon;
     }
     
-    public void manejarAtaque(final IAtaque ataque){
+    public void manejarAtaque(final Ataque ataque){
         this.pokemon.setPorcentajeVida(this.pokemon.getPorcentajeVida()*ataque.getDaño());
     }
 }

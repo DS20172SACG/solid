@@ -9,10 +9,10 @@ package _1ocp.bien;
  *
  * @author Administrador
  */
-public abstract class IAtaque {
+public abstract class Ataque {
     protected double daño = 0;
     
-    public IAtaque(){
+    public Ataque(){
     }
     
     public double getDaño(){

@@ -3,9 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/mal/Pokemon.java</file>
-            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/mal/ManejadorAtaque.java</file>
-            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/mal/Ataque.java</file>
+            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/bien/Pokemon.java</file>
+            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/bien/Ataque_Fuego.java</file>
+            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/bien/Ataque_Planta.java</file>
+            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/bien/Ataque_Agua.java</file>
+            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/bien/ManejadorAtaque.java</file>
+            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/bien/IAtaque.java</file>
+            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/bien/Ataque_Aire.java</file>
+            <file>file:/C:/Users/CltControl/Downloads/solid/solid/src/_1ocp/bien/Ataque.java</file>
         </group>
     </open-files>
 </project-private>
